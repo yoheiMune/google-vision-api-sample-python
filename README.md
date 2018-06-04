@@ -3,9 +3,9 @@
 ## Enable Vision API.
 https://cloud.google.com/vision/docs/before-you-begin
 
-## Get credential.
-Get Service Account Key from:
-https://cloud.google.com/vision/docs/libraries#installing_the_client_library
+## Get a Credential.
+Get Service Account Key from:  
+https://cloud.google.com/vision/docs/libraries#installing_the_client_library  
 then, save to `./my-sevice-account-key.json`
 
 ## Requirements.
