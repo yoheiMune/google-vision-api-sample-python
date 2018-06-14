@@ -1,22 +1,22 @@
-# Sample for Google Vision API with python.
+# Google Vision API with python.
 
-## Enable Vision API.
+## VisionAPIの有効化.
 https://cloud.google.com/vision/docs/before-you-begin
 
-## Get a Credential.
+## クレデンシャルの取得.
 Get Service Account Key from:  
 https://cloud.google.com/vision/docs/libraries#installing_the_client_library  
 then, save to `./my-sevice-account-key.json`
 
-## Requirements.
+## 対象バージョン.
 Python3.6+
 
-## Install.
+## モジュールのインストール.
 ```
 $ pip3 install --upgrade google-cloud-vision
 ```
 
-## References.
+## 参照リンク.
 - [顔検出のチュートリアル](https://cloud.google.com/vision/docs/face-tutorial)
 - [Vision API Client Libraries](https://cloud.google.com/vision/docs/libraries#installing_the_client_library)
 - [API Reference](https://google-cloud-python.readthedocs.io/en/latest/vision/index.html)
