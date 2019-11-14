@@ -13,7 +13,12 @@ Python3.6+
 
 ## モジュールのインストール.
 ```
-$ pip3 install --upgrade google-cloud-vision
+pip3 install --upgrade google-cloud-vision
+```
+
+## 実行.
+```
+python3 sample.py
 ```
 
 ## 参照リンク.
